@@ -4,3 +4,4 @@ make changes to extend master branch over images branch
 
 make changes to make one commit ahead of newBranch1 branch
 create conflict from master branch
+creante conflict from newBranch branch
