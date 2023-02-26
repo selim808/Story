@@ -1,3 +1,0 @@
-hello from new branch
-
-update this file to make newBranch branch ahead with one commit from master

@@ -1,3 +1,0 @@
-hello there
-
-two commit ahead from newBranch to master
