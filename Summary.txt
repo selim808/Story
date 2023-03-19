@@ -1,0 +1,32 @@
+///////////////////////////////////////////////////////////////
+
+Equipment: 
+
+6 = 
+4 drums (typical) + 
+1 separator vessel + 
+1 Regeneration Gas Ko Drum.
+
+////////////////////////////////////////////////////////////////
+
+Packing Lists:
+
+15 = 
+3 Installation parts (Drums/Vessels/Filters)+
+2 spare (V2_Regenerator) / comminsson parts (V1_Separator + Drums)
+4 Distributors (Drums)
+
+6 PL and LD (Drums and V1)
+
+////////////////////////////////////////////////////////////////
+
+DWGs:
+
+11 = 
+3 GA +
+3 Internals details +
+3 Nozzle details +
+1 Spare parts +
+1 commisioning parts.
+
+////////////////////////////////////////////////////////////////
